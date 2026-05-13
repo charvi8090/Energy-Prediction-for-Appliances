@@ -1,5 +1,5 @@
 # Energy_Regression
-- HuggingFace:  https://huggingface.co/spaces/bhavya424/Appliances_Energy_Prediction
+- HuggingFace:  https://huggingface.co/spaces/Charvi8090/Energy_Prediction
 # Household Energy Prediction
 
 A machine learning project that predicts household appliance energy consumption using environmental and weather data. This project explores various regression algorithms to forecast energy usage based on temperature, humidity, and outdoor weather conditions.
